@@ -22,8 +22,8 @@ python3 YTdownload.py
 
 ## for windows
 
-1 download the repository as a zip file
+1. download the repository as a zip file
 
-1 unzip it
+1. unzip it
 
-1 run YTdownload.exe
+1. run YTdownload.exe
