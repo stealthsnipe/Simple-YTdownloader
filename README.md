@@ -23,5 +23,7 @@ python3 YTdownload.py
 ## for windows
 
 download the repository as a zip file
+
 unzip it
+
 run YTdownload.exe
